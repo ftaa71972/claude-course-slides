@@ -1,0 +1,1 @@
+add_repo error: tool mcp__claude-code-remote__add_repo not found (ToolSearch returned no match)
